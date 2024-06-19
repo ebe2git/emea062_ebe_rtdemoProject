@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Emea062_ebe_rtdemoProject
+  gitServerName: emea062_ebe_github
+  gitUrl: https://github.com/ebe2git/Emea062_ebe_rtdemoProject
+  gitUsername: ebe2git
+  gitBranch: main
